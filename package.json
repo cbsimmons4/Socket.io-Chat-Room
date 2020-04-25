@@ -1,0 +1,19 @@
+{
+  "name": "socket.io-chat-room",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbsimmons4/Socket.io-Chat-Room.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbsimmons4/Socket.io-Chat-Room/issues"
+  },
+  "homepage": "https://github.com/cbsimmons4/Socket.io-Chat-Room#readme"
+}
