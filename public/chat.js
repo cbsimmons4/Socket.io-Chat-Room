@@ -1,5 +1,5 @@
 //Make connection
-var socket = io.connect('https://evening-waters-26979.herokuapp.com/');
+var socket = io.connect('https://cam-chat-app.herokuapp.com/');
 
 //Query Dom
 var message = document.getElementById('message');
