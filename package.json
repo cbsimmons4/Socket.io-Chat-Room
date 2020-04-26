@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/cbsimmons4/Socket.io-Chat-Room/issues"
   },
-  "homepage": "https://github.com/cbsimmons4/Socket.io-Chat-Room#readme"
+  "homepage": "https://github.com/cbsimmons4/Socket.io-Chat-Room#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
 }
