@@ -21,7 +21,6 @@ btn.addEventListener('click', function(){
     socket.emit('typing', handle.value);
   });
 
-
 // Listen for events
 socket.on('chat', function(data){
     feedback.innerHTML = '';
