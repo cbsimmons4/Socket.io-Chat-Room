@@ -7,3 +7,6 @@ https://cam-chat-app.herokuapp.com/
 
 Try opening the app up in multiple windows across one or more devices!
 
+Update! I've made a slightly better chat app: https://github.com/cbsimmons4/React-Chat
+
+
